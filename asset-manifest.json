@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/portfolio-react-food-app/static/css/main.de2bd448.css",
+    "main.js": "/portfolio-react-food-app/static/js/main.a731123d.js",
+    "static/media/Chicken-Dishes.jpeg": "/portfolio-react-food-app/static/media/Chicken-Dishes.66980e08328d255af493.jpeg",
+    "index.html": "/portfolio-react-food-app/index.html",
+    "main.de2bd448.css.map": "/portfolio-react-food-app/static/css/main.de2bd448.css.map",
+    "main.a731123d.js.map": "/portfolio-react-food-app/static/js/main.a731123d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de2bd448.css",
+    "static/js/main.a731123d.js"
+  ]
+}
